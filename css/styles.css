@@ -1,0 +1,22 @@
+.footer {
+  background-color: grey;
+  height: 100px;
+  opacity: 0.5;
+}
+
+.footer p {
+  position: fixed;
+  line-height: 1.5;
+  padding-bottom: 40px;
+  text-transform: uppercase;
+}
+
+.fa {
+/*  color: green;
+  font-weight: bold; */
+}
+
+.img_fluid {
+  height: 100px;
+  width: 100px;
+}
